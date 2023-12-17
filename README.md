@@ -204,13 +204,7 @@ For more detailed Firebase configuration and usage instructions, explore the [Fi
 | `flutter_native_splash`       | Flutter package to customize the native splash   | ^2.3.2    |
 
 
-## License
 
-This project is not licensed, and no permissions are granted regarding the use, modification, or distribution of the code. The absence of a license means that default copyright laws apply, and users should refrain from any actions that would typically require permission or licensing.
-
-Please note that without a license, contributors retain their copyright, and others are not granted any rights to use, modify, or distribute the project. If you wish to use or contribute to this project, please contact the project owner for explicit permission.
-
----
 
 
    
